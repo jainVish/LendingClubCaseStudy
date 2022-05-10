@@ -32,7 +32,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Contact
-Created by [@Vishal Jain] - feel free to contact me[email: jainvishal1990@gmail.com, linkedin: https://linkedin.com/in/vishal-jain-b1434095]!
+Created :	Vishal Jain
+email: 		jainvishal1990@gmail.com
+linkedin: 	https://linkedin.com/in/vishal-jain-b1434095
 
 
 <!-- Optional -->
